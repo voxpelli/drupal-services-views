@@ -1,7 +1,6 @@
 name = Services Views
 description = Build service endpoints with Views.
 package = Services
-core = 6.x
-php = 5.x
+core = 7.x
 dependencies[] = services
 dependencies[] = views
